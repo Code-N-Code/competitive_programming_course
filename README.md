@@ -3,12 +3,18 @@ A completely free course on data structures , algorithms and competitive program
 
 Hello readers this is [CodeNCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ?view_as=subscriber) AKA (Waqar Ahmad).
 
+---
+
+
 
 ## About CodeNCode
 
 
 This is a youtube channel run by me where I teach Algorithms , data structures and competitive programming for free.
 I have courses like Number theory and graph theory course which start from basic and teach advanced level algorithms.
+
+---
+
 
 ## List of Courses by CodeNCode 
 - [Basic Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5HC7D3gUwc8cqwDtvOaqke)
@@ -25,7 +31,19 @@ I have courses like Number theory and graph theory course which start from basic
 - [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6v2-emg_JGcC9v2v2YTbvq)
 - [Mo's Algorithm & SQRT Decomposition](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 
+---
 
+
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
+- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
+- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
+- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
+- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
+<!-- YOUTUBE:END -->
+
+---
 
 # Practice Problems : By Platform
 
