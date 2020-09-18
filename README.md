@@ -32,7 +32,7 @@ I have courses like Number theory and graph theory course which start from basic
 - [Mo's Algorithm & SQRT Decomposition](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 
 
-# Practice Problems : By Platform
+# Video Editorials : By Platform
 
 ## Codeforces
 - [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7Fz2JrP7meOtxUvEXy926-)
@@ -58,3 +58,30 @@ I have courses like Number theory and graph theory course which start from basic
 - [Geometry](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5VIeBV6uYvHude1pGENuO5)
 - [Greedy Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5gv-kNXdWsZd2Rm5UjYIlL)
 - [Basic Algorithms & Implementation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4-4_ND1HcDGWHIiTi_3avs)
+
+
+## HackerEarth
+- [Disjoint Set Union](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5aMg6ke_AoLpx3GDgA9teo)
+- [Bit Manipulations](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4CeQF3blkJaPzuq9lD44Tv)
+- [Range Queries](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik60GBAsdqjicLUDBGD2ahAN)
+- [Dynamic Programming](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6SLdDBk2RESIFFgJwjl81v)
+- [Graph & Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6yl4l36yla9Ew5Kn8sSlqn)
+- [Basic Algorithms & Implementation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7vXtQkXZHPz9yo7SBFiuOK)
+
+## Leetcode
+- [Bit Manipulation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5P-QfTYVY_fIFtcVbIz9ij)
+- [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7Dvv2_Y2Pf316xTj3LWS7B)
+- [Dynamic Programming](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4G4UznUFeRNWV-NBq5vUcH)
+- [Binary Search](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6LzOqo8V3GwthSd9GIN_CK)
+
+## SPOJ
+- [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik50mPNfoadAHoCnjeW2Jsw0)
+- [Graph & Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5niWOljO7dQVn0o-zf_f9_)
+- [Binary Search](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik609P408nEkgYjgE12gFcyx)
+- [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5ihRT6oH2ztAYMnGBQ4gSa)
+- [Others](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5rJQUqzgHdlmK7MSR4n8AK)
+
+## Hackerrank
+- [Bit Manipulation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4hYJ1dykHIJ68GR_Of8WiK)
+- [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv)
+
