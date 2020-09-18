@@ -31,9 +31,6 @@ I have courses like Number theory and graph theory course which start from basic
 - [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6v2-emg_JGcC9v2v2YTbvq)
 - [Mo's Algorithm & SQRT Decomposition](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 
----
-
----
 
 # Practice Problems : By Platform
 
