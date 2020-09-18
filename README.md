@@ -3,12 +3,18 @@ A completely free course on data structures , algorithms and competitive program
 
 Hello readers this is [CodeNCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ?view_as=subscriber) AKA (Waqar Ahmad).
 
+---
+
+
 
 ## About CodeNCode
 
 
 This is a youtube channel run by me where I teach Algorithms , data structures and competitive programming for free.
 I have courses like Number theory and graph theory course which start from basic and teach advanced level algorithms.
+
+---
+
 
 ## List of Courses by CodeNCode 
 - [Basic Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5HC7D3gUwc8cqwDtvOaqke)
@@ -25,6 +31,12 @@ I have courses like Number theory and graph theory course which start from basic
 - [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6v2-emg_JGcC9v2v2YTbvq)
 - [Mo's Algorithm & SQRT Decomposition](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 
+---
+
+
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 # Practice Problems : By Platform
