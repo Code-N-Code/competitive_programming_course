@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           # change the channel ID
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCDCHcqyeQgJ-jVSd6VJkbCw"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC0zvY3yIBQTrSutsV-4yscQ"
