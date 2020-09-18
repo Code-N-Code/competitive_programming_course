@@ -35,9 +35,7 @@ I have courses like Number theory and graph theory course which start from basic
 
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
 
 ---
 
