@@ -1,8 +1,8 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # Runs every minute
-    - cron: '* * * * *'
+    # Runs every hour (Chenge it as per the convenience)
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+          # change the channel ID
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCDCHcqyeQgJ-jVSd6VJkbCw"
