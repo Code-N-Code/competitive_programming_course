@@ -5,15 +5,6 @@ Hello readers this is [CodeNCode](https://www.youtube.com/channel/UC0zvY3yIBQTrS
 
 ---
 
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [L23 : Kosaraju's Algorithm for Strongly Connected Component Part 2 | Graph Theory Part 1](https://www.youtube.com/watch?v=NLATYAH8QnA)
-- [L22 : Kosaraju's Algorithm for Strongly Connected Component Part 1 | Graph Theory Part 1](https://www.youtube.com/watch?v=D-f-Zi2JfgM)
-- [E005 : Prime Sum (Medium) | Hackerrank | Number Theory](https://www.youtube.com/watch?v=4IKqUZCqiMc)
-- [E004 : Sherlock and GCD | HackerRank | Number Theory](https://www.youtube.com/watch?v=3qGStdrGPQk)
-- [L25 : Fermat Primality Test and SPOJ PON Solution |  Number Theory Course](https://www.youtube.com/watch?v=LR0986Y32iI)
-<!-- YOUTUBE:END -->
-
 
 ## About CodeNCode
 
@@ -22,6 +13,15 @@ This is a youtube channel run by me where I teach Algorithms , data structures a
 I have courses like Number theory and graph theory course which start from basic and teach advanced level algorithms.
 
 ---
+
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [L23 : Kosaraju's Algorithm for Strongly Connected Component Part 2 | Graph Theory Part 1](https://www.youtube.com/watch?v=NLATYAH8QnA)
+- [L22 : Kosaraju's Algorithm for Strongly Connected Component Part 1 | Graph Theory Part 1](https://www.youtube.com/watch?v=D-f-Zi2JfgM)
+- [E005 : Prime Sum (Medium) | Hackerrank | Number Theory](https://www.youtube.com/watch?v=4IKqUZCqiMc)
+- [E004 : Sherlock and GCD | HackerRank | Number Theory](https://www.youtube.com/watch?v=3qGStdrGPQk)
+- [L25 : Fermat Primality Test and SPOJ PON Solution |  Number Theory Course](https://www.youtube.com/watch?v=LR0986Y32iI)
+<!-- YOUTUBE:END -->
 
 
 ## List of Courses by CodeNCode 
