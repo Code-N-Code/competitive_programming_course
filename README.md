@@ -3,9 +3,6 @@ A completely free course on data structures , algorithms and competitive program
 
 Hello readers this is [CodeNCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ?view_as=subscriber) AKA (Waqar Ahmad).
 
----
-
-
 ## About CodeNCode
 
 
