@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E002 : Chef and Round Run | Codechef | Graph & Tree](https://www.youtube.com/watch?v=s1pYDKbYtmo)
 - [L23 : Kosaraju's Algorithm for Strongly Connected Component Part 2 | Graph Theory Part 1](https://www.youtube.com/watch?v=NLATYAH8QnA)
 - [L22 : Kosaraju's Algorithm for Strongly Connected Component Part 1 | Graph Theory Part 1](https://www.youtube.com/watch?v=D-f-Zi2JfgM)
 - [E005 : Prime Sum (Medium) | Hackerrank | Number Theory](https://www.youtube.com/watch?v=4IKqUZCqiMc)
 - [E004 : Sherlock and GCD | HackerRank | Number Theory](https://www.youtube.com/watch?v=3qGStdrGPQk)
-- [L25 : Fermat Primality Test and SPOJ PON Solution |  Number Theory Course](https://www.youtube.com/watch?v=LR0986Y32iI)
 <!-- YOUTUBE:END -->
 
 
