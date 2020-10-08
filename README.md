@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L25 : Miller-Rabin Primality Test | Number Theory Course](https://www.youtube.com/watch?v=NdqGlXiAchI)
 - [L12 : Implementation & Proof of Bellman - Ford algorithm | Graph Theory Part 2](https://www.youtube.com/watch?v=rLHizamLJys)
 - [L11 : Bellman Ford Algorithm | Graph Theory Part 2](https://www.youtube.com/watch?v=G0hDtIJSOBk)
 - [E002 : Chef and Round Run | Codechef | Graph & Tree](https://www.youtube.com/watch?v=s1pYDKbYtmo)
 - [L23 : Kosaraju's Algorithm for Strongly Connected Component Part 2 | Graph Theory Part 1](https://www.youtube.com/watch?v=NLATYAH8QnA)
-- [L22 : Kosaraju's Algorithm for Strongly Connected Component Part 1 | Graph Theory Part 1](https://www.youtube.com/watch?v=D-f-Zi2JfgM)
 <!-- YOUTUBE:END -->
 
 
