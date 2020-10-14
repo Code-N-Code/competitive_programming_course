@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L28 : Extended Euclidean Algorithm Part 2 | Number Theory Course](https://www.youtube.com/watch?v=LTFfQnkgUfY)
 - [L27 : Extended Euclidean Algorithm | Number Theory Course](https://www.youtube.com/watch?v=8Fqv4ddMC3I)
 - [L15 : Rod Cutting Problem | Dynamic Programming Course Part 1](https://www.youtube.com/watch?v=gl14h24cngc)
 - [L26 : Miller-Rabin Primality Test | Number Theory Course](https://www.youtube.com/watch?v=NdqGlXiAchI)
 - [L12 : Implementation & Proof of Bellman - Ford algorithm | Graph Theory Part 2](https://www.youtube.com/watch?v=rLHizamLJys)
-- [L11 : Bellman Ford Algorithm | Graph Theory Part 2](https://www.youtube.com/watch?v=G0hDtIJSOBk)
 <!-- YOUTUBE:END -->
 
 
