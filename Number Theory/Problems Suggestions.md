@@ -33,3 +33,15 @@
 | 4     | [LCM Sum](https://www.spoj.com/problems/LCMSUM/) | [CodeNCode](https://www.youtube.com/watch?v=SKBjnm39Puk&list=PL2q4fbVm1Ik50mPNfoadAHoCnjeW2Jsw0&index=4) | `Totient Function` , `GCD` |
 | 5     | [Base Exploration](https://www.spoj.com/problems/BSEXP/) | [CodeNCode](https://www.youtube.com/watch?v=0lX8jt2_b3c&list=PL2q4fbVm1Ik50mPNfoadAHoCnjeW2Jsw0&index=5) | `Prime Factorization` , `sieve` |
 
+
+---
+
+# Hackerrank
+| S.No. | Problem Name | Solution Video Link | Tags |
+| ---   | ---          | ---  | --- |
+| 1     | [Identify Smith Numbers](https://www.hackerrank.com/challenges/identify-smith-numbers/problem) | [CodeNCode](https://www.youtube.com/watch?v=XoPGj7PMH_I&list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv&index=1) | `Implementation` , `prime factorization`|
+| 2     | [Fibonacci Findings](https://www.hackerrank.com/challenges/fibonacci-finding-easy/problem) | [CodeNCode](https://www.youtube.com/watch?v=oD1zWvg1-Xo&list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv&index=2&t=16s) | `matrix exponentiation` , `modulo arithmetic`|
+| 3     | [Constructing a number](https://www.hackerrank.com/challenges/constructing-a-number/problem) | [CodeNCode](https://www.youtube.com/watch?v=1RgtT-xhWsI&list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv&index=3) | `implementation`|
+| 4     | [Count the sum](https://www.hackerrank.com/contests/pir3/challenges/count-the-sum-1) | [CodeNCode](https://www.youtube.com/watch?v=mFZMChKYISk&list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv&index=4) | `Totient Function` , `gcd`|
+| 5     | [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd/problem) | [CodeNCode](https://www.youtube.com/watch?v=3qGStdrGPQk&list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv&index=5&t=1s) | `implementation` , `gcd`|
+| 6     | [Prime Sum](https://www.hackerrank.com/challenges/prime-sum/problem) | [CodeNCode](https://www.youtube.com/watch?v=4IKqUZCqiMc&list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv&index=6) | `Goldbach conjecture` , `implementation`|
