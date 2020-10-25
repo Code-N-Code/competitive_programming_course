@@ -14,6 +14,7 @@
 | S.No. | Problem Name | Solution Video Link | Tags |
 | ---   | ---          | ---  | --- |
 | 1     | [Queries about Numbers](https://www.codechef.com/problems/QNUMBER) | [CodeNCode](https://www.youtube.com/watch?v=tMn9yNdsI28&list=PL2q4fbVm1Ik4XdbEyZ2a85pPhyRBiJIyC&index=1) | `Prime factorization`|
+| 2     | [Get AC in one go](https://www.codechef.com/problems/COPR16G) | [CodeNCode](https://youtu.be/0Snuq77afU4) | `Chicken McNugget Theorem` , `Linear Diophantine Equation`|
 
 ---
 
