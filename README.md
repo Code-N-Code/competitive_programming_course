@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E002 : Get AC in one go Upload | Codechef | Number Theory](https://www.youtube.com/watch?v=0Snuq77afU4)
 - [E006 : Crucial Equation | Spoj | Number Theory](https://www.youtube.com/watch?v=w-CPCqoke5Q)
 - [L29 : Linear Diophantine Equation | Number Theory](https://www.youtube.com/watch?v=Rzl1W59mq3o)
 - [Episode 4 : This week in competitive programming | CodeNCode](https://www.youtube.com/watch?v=ReNM5WhW-KA)
 - [L28 : Extended Euclidean Algorithm Part 2 | Number Theory Course](https://www.youtube.com/watch?v=LTFfQnkgUfY)
-- [L27 : Extended Euclidean Algorithm | Number Theory Course](https://www.youtube.com/watch?v=8Fqv4ddMC3I)
 <!-- YOUTUBE:END -->
 
 
