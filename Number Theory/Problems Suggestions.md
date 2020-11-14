@@ -34,7 +34,7 @@
 | 4     | [LCM Sum](https://www.spoj.com/problems/LCMSUM/) | [CodeNCode](https://www.youtube.com/watch?v=SKBjnm39Puk&list=PL2q4fbVm1Ik50mPNfoadAHoCnjeW2Jsw0&index=4) | `Totient Function` , `GCD` |
 | 5     | [Base Exploration](https://www.spoj.com/problems/BSEXP/) | [CodeNCode](https://www.youtube.com/watch?v=0lX8jt2_b3c&list=PL2q4fbVm1Ik50mPNfoadAHoCnjeW2Jsw0&index=5) | `Prime Factorization` , `sieve` |
 | 6     | [Crucial Equation](https://www.spoj.com/problems/CEQU/) | [CodeNCode](https://youtu.be/w-CPCqoke5Q) | `Linear Diophantine Equation`|
-| 7     | [GCD Extreme](https://www.spoj.com/problems/GCDEX/) | [CodeNCode](https://www.youtube.com/watch?v=eBgX6QArPxc) | `Sieve` , `ETF` |
+| 7     | [GCD Extreme](https://www.spoj.com/problems/GCDEX/) | [CodeNCode](https://www.youtube.com/watch?v=eBgX6QArPxc) | `Sieve` , `Totient Function` |
 
 
 ---
