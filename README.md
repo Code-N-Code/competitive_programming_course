@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Happy Diwali 2020 | CodeNCode](https://www.youtube.com/watch?v=lZv3Z098GpY)
 - [GCD Extreme | SPOJ | Number Theory](https://www.youtube.com/watch?v=eBgX6QArPxc)
 - [L25 : Tarjan's Algorithm for SCC Part 2 | Graph Theory Course Part 1](https://www.youtube.com/watch?v=EDb_TGBZqgg)
 - [L01 : How to get better at competitive programming | CodeNCode](https://www.youtube.com/watch?v=OysvFEc2EK0)
 - [E003 : A walk to remember | Hackerearth | Graph & Tree](https://www.youtube.com/watch?v=ZKhOauZgACE)
-- [L24 : Tarjan's Algorithm for  Strongly Connected Components | Graph Theory Course Part 1](https://www.youtube.com/watch?v=3eNwSBwGjko)
 <!-- YOUTUBE:END -->
 
 
