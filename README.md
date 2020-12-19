@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L04 : Substring Hashing in O(1) | String Algorithms](https://www.youtube.com/watch?v=X_YgMWvCRS8)
 - [L03 : Polynomial Rolling Hash | String Algorithms](https://www.youtube.com/watch?v=zURFD55lGBI)
 - [L02 : Introduction to String Hashing | String Algorithms](https://www.youtube.com/watch?v=6cSMGwabH5M)
 - [L00 : String Algorithms Course Overview | String Algorithms](https://www.youtube.com/watch?v=FGeSdYqM3Nk)
 - [L01 : Sliding window algorithm Part 2 | String Algorithms](https://www.youtube.com/watch?v=2Yk9R40q28w)
-- [L01 : Sliding window algorithm Part 1 | String Algorithms](https://www.youtube.com/watch?v=j8RT0tm7R-w)
 <!-- YOUTUBE:END -->
 
 
