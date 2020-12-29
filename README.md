@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L06 : Knuth-Morris-Pratt String matching algorithm | String Algorithms](https://www.youtube.com/watch?v=eKOMXcmKF7w)
 - [L00 : Introduction to Course | C++ STL & Algorithms](https://www.youtube.com/watch?v=EtCml4TWqW0)
 - [L05 : Rabin - Karp String matching algorithm | String Algorithms](https://www.youtube.com/watch?v=aKQmwAVGd3s)
 - [E001 : Needle in Haystack solution using Hashing | SPOJ | String Algorithms](https://www.youtube.com/watch?v=CcGcUfLDeH4)
 - [L04 : Substring Hashing in O(1) | String Algorithms](https://www.youtube.com/watch?v=X_YgMWvCRS8)
-- [L03 : Polynomial Rolling Hash | String Algorithms](https://www.youtube.com/watch?v=zURFD55lGBI)
 <!-- YOUTUBE:END -->
 
 
