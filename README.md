@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E001 : Apply KMP  | HackerEarth | String Algorithms](https://www.youtube.com/watch?v=wEUAT_CTLy4)
 - [L004  : All about C++ Set & MultiSet | C++ STL & Algorithms](https://www.youtube.com/watch?v=r4vOrM28dTg)
 - [Unboxing my new headphone 🎧 | CodeGuruJi](https://www.youtube.com/watch?v=NUWjHzXWFMY)
 - [L003 : All About C++ Iterators | C++ STL & Algorithms](https://www.youtube.com/watch?v=zjniuCJ7ar4)
 - [L002 : Everything about Deque | C++ STL & Algorithms](https://www.youtube.com/watch?v=mIX56wbOgt4)
-- [L07 : Knuth-Morris-Pratt String matching algorithm Part 2 Upload](https://www.youtube.com/watch?v=My4eYV2sDfY)
 <!-- YOUTUBE:END -->
 
 
