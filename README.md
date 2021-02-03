@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E001 : In love with primes | Hackerearth | Number Theory](https://www.youtube.com/watch?v=J0EpWM6HSYo)
 - [Episode 01 : Path to become professional Android Engineer | Learn from experts](https://www.youtube.com/watch?v=qMPeuBUU2C8)
 - [Session 02 : Evolution Batch 1 & 2](https://www.youtube.com/watch?v=iavIoRixxGY)
 - [Invitation to 30 Jan live session](https://www.youtube.com/watch?v=_pzIYoGgBwo)
 - [Session 01 : Evolution Batch 1 & 2](https://www.youtube.com/watch?v=vygEfC5Ltik)
-- [L005 : All about Map & Multimap | C++ STL & Algorithms](https://www.youtube.com/watch?v=mZrYVUeydtI)
 <!-- YOUTUBE:END -->
 
 
