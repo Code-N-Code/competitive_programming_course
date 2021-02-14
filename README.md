@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E002 : ADA and Pet | SPO | String Algorithms](https://www.youtube.com/watch?v=5EO76kiHQ5Y)
 - [E004 : Roy and Shopping | Hackerearth | Number Theory](https://www.youtube.com/watch?v=0053xzVUJV0)
 - [Session 03 : Evolution Batch 1 & 2](https://www.youtube.com/watch?v=7bOVZJgXRT8)
 - [E003 : Prime interval | Hackerearth | Number Theory](https://www.youtube.com/watch?v=dz8xJkjP58I)
 - [E002 : Does it divide | Hackerearth | Number Theory](https://www.youtube.com/watch?v=LRNn6qSXzP0)
-- [E001 : In love with primes | Hackerearth | Number Theory](https://www.youtube.com/watch?v=J0EpWM6HSYo)
 <!-- YOUTUBE:END -->
 
 
