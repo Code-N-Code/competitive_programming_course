@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E003 : Conversion | Hackerearth | String Algorithms](https://www.youtube.com/watch?v=tjcpnBVDe2g)
 - [E002 : First Occurrence | Hackerearth | String Algorithms](https://www.youtube.com/watch?v=Gk-276DTbRw)
 - [L006 : Everything about Stack & Queue | C++ STL & Algorithms](https://www.youtube.com/watch?v=2nQ7CwqgiMU)
 - [E002 : ADA and Pet | SPO | String Algorithms](https://www.youtube.com/watch?v=5EO76kiHQ5Y)
 - [E004 : Roy and Shopping | Hackerearth | Number Theory](https://www.youtube.com/watch?v=0053xzVUJV0)
-- [Session 03 : Evolution Batch 1 & 2](https://www.youtube.com/watch?v=7bOVZJgXRT8)
 <!-- YOUTUBE:END -->
 
 
