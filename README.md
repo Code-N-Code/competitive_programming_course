@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E003 - A XOR Value | Hackerearth | Bit Manipulation](https://www.youtube.com/watch?v=fadDKbshu9w)
 - [working on Z-function lecture from string algorithms series](https://www.youtube.com/watch?v=I6KTUhpr2Hw)
 - [L03 : 5 Advanced algorithms which are too easy to learn |  CodeNCode](https://www.youtube.com/watch?v=fShjPw1LAhk)
 - [E005 : Distance on Tree | Codeforces | Dynamic Programming](https://www.youtube.com/watch?v=oUPf_FUoLGk)
 - [Session 04 : Evolution Batch 1 & 2](https://www.youtube.com/watch?v=pRHWAykokVg)
-- [DP on Trees lecture in making #shorts](https://www.youtube.com/watch?v=OleCJG-B9HE)
 <!-- YOUTUBE:END -->
 
 
