@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [March Long challenge current world rank 55 | solved 6 problems](https://www.youtube.com/watch?v=N-pmtgWu5bQ)
 - [March Long challenge 2021 editorials soon](https://www.youtube.com/watch?v=IVYt50zb1l0)
 - [Session 05 : introduction to recursion | Evolution Batch 1 & 2](https://www.youtube.com/watch?v=qhjtaJjn2tk)
 - [E003 - A XOR Value | Hackerearth | Bit Manipulation](https://www.youtube.com/watch?v=fadDKbshu9w)
 - [working on Z-function lecture from string algorithms series](https://www.youtube.com/watch?v=I6KTUhpr2Hw)
-- [L03 : 5 Advanced algorithms which are too easy to learn |  CodeNCode](https://www.youtube.com/watch?v=fShjPw1LAhk)
 <!-- YOUTUBE:END -->
 
 
