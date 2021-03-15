@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [March 2021 : Paparrazi Gennady | Codechef Long Challenge](https://www.youtube.com/watch?v=97eUCNvkR6E)
 - [L01: Orientation of points | Geometric Algorithms](https://www.youtube.com/watch?v=qE6ceKCpbj0)
 - [L08 : Z-Function & Its applications | String Algorithms](https://www.youtube.com/watch?v=hDKTCWWGIxk)
 - [Guess the lecture , editing almost done #shorts](https://www.youtube.com/watch?v=jHi4v-2kFow)
 - [March Long challenge current world rank 55 | solved 6 problems](https://www.youtube.com/watch?v=N-pmtgWu5bQ)
-- [March Long challenge 2021 editorials soon](https://www.youtube.com/watch?v=IVYt50zb1l0)
 <!-- YOUTUBE:END -->
 
 
