@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L16 : Kadane's algorithm for maximum subarray sum | Dynamic Programming Course Part 1](https://www.youtube.com/watch?v=l1SzJz5054s)
 - [Max Top. Sort Part 3 | Codechef Long Challenge](https://www.youtube.com/watch?v=92qpS9pG3Go)
 - [Max Top. Sort Part 2 | Codechef Long Challenge](https://www.youtube.com/watch?v=47wUA7lO4HQ)
 - [Max Top. Sort Part 1 | Codechef Long Challenge](https://www.youtube.com/watch?v=xRLQ-T06grQ)
 - [Max Top sort & My last week | CodeNCode](https://www.youtube.com/watch?v=Z3JNhHQinbA)
-- [Height of disappointment | codechef March Long challenge](https://www.youtube.com/watch?v=syLh4IXY61U)
 <!-- YOUTUBE:END -->
 
 
