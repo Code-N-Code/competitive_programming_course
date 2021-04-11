@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CodechefDataMiner : Part 02 | Java Web Scraping Project | CodeNCode](https://www.youtube.com/watch?v=6IF5nFpL1zs)
 - [Lecture 10 Trie DS. Preview #shorts | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=eXn8wSTZPXk)
 - [CodechefDataMiner : Part 01 | Java Web Scraping Project | CodeNCode](https://www.youtube.com/watch?v=JJ3q63_yWNs)
 - [L09 : Why you should learn Trie ? | String algorithms](https://www.youtube.com/watch?v=coXQ-ifIND4)
 - [Trie data structure lecture | CodeNCode](https://www.youtube.com/watch?v=QP9g7gbyMIE)
-- [Codechef web scraping project using Java | CodeNCode](https://www.youtube.com/watch?v=b8r4zHMKjr8)
 <!-- YOUTUBE:END -->
 
 
