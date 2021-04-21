@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Technology + this old man = Heartwarming](https://www.youtube.com/watch?v=PxU0ctiZ2vc)
 - [My suggestions on Cut and stick problem | Codeforces | CodeNCode](https://www.youtube.com/watch?v=9h-6W2n3RFk)
 - [E003 : And 0 , Big Sum |  Codeforces | Combinatorics](https://www.youtube.com/watch?v=tED3ykXX0S4)
 - [Implementing remaining functionalities : final part | Java Web Scraping Project | CodeNCode](https://www.youtube.com/watch?v=ZusG_nuRaK0)
 - [E006 : Binary Literature |  Codeforces | Constructive Algorithm](https://www.youtube.com/watch?v=MkymgSdstV4)
-- [I could not solve problem C but | CodeNCode](https://www.youtube.com/watch?v=qsolYeIa4z4)
 <!-- YOUTUBE:END -->
 
 
