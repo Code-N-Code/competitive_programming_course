@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E001 : Most Frequent Value | SPOJ | SQRT & Mo's Algorithm](https://www.youtube.com/watch?v=JrHInjwFXrI)
 - [L01 : Understanding Dynamic Programming | Evolution Batch | CodeNCode](https://www.youtube.com/watch?v=5yIjtlBrMNk)
 - [codeforces DIV2 Round 717 | CodeNCode](https://www.youtube.com/watch?v=Ywodz9cx9pY)
 - [Technology + this old man = Heartwarming](https://www.youtube.com/watch?v=PxU0ctiZ2vc)
 - [My suggestions on Cut and stick problem | Codeforces | CodeNCode](https://www.youtube.com/watch?v=9h-6W2n3RFk)
-- [E003 : And 0 , Big Sum |  Codeforces | Combinatorics](https://www.youtube.com/watch?v=tED3ykXX0S4)
 <!-- YOUTUBE:END -->
 
 
