@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E02 : Tree Diameter | CSES | Tree Algorithms](https://www.youtube.com/watch?v=l6aA9a_x3gE)
 - [L02 : Max distance between 2 nodes in Tree | Tree DP | CodeNCode](https://www.youtube.com/watch?v=nvgeJN85zUo)
 - [E01 : Finding a Centroid | CSES | Tree Algorithms](https://www.youtube.com/watch?v=0DJwKePjweQ)
 - [L02.1 : Understanding States & Transitions to build DP solutions | Evolution Batch | CodeNCode](https://www.youtube.com/watch?v=XNo89jnAKz8)
 - [Microsoft Wordament Game Solutions using C++ | CodeNCode](https://www.youtube.com/watch?v=-8go52yn0NM)
-- [MyRestro : Online Food ordering System | CodeNCode](https://www.youtube.com/watch?v=EXTdTK1yLDw)
 <!-- YOUTUBE:END -->
 
 
