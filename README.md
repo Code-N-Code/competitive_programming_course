@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#03.2 Spring IOC & Loosely Coupled Applications | Spring REST | CodeNCode](https://www.youtube.com/watch?v=DpsWzmY80eQ)
+- [#03.1 Spring IOC & Loosely Coupled Applications | Spring REST | CodeNCode](https://www.youtube.com/watch?v=R9kiqULCnrE)
 - [#02 Introduction to Spring Framework & Project Initialization | Spring REST | CodeNCode](https://www.youtube.com/watch?v=O52AfJyAhwc)
 - [Disappointed in 10 seconds | Codechef Cheat Edition.](https://www.youtube.com/watch?v=O1kcFXubDYY)
 - [E04 : Tree Distances II (Re-Rooting DP) | CSES | Tree Algorithms](https://www.youtube.com/watch?v=lWCZOjUOjRc)
-- [How will you solve this Tree problem in linear time?](https://www.youtube.com/watch?v=JZDJKgjLxi0)
-- [L04 : Re-Rooting DP technique introduction | Tree DP | CodeNCode](https://www.youtube.com/watch?v=JfBzxIBrnKA)
 <!-- YOUTUBE:END -->
 
 
