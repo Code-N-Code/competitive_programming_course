@@ -35,6 +35,7 @@ I have courses like Number theory and graph theory course which start from basic
 - [Recursion](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7Vp1iJw2V57MT4UVdZDoWj)
 - [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6v2-emg_JGcC9v2v2YTbvq)
 - [Mo's Algorithm & SQRT Decomposition](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+- [Geometric Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7OAGWIMYrgRkKqshRBpJoY)
 
 
 # Video Editorials : By Platform
@@ -72,6 +73,8 @@ I have courses like Number theory and graph theory course which start from basic
 - [Dynamic Programming](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6SLdDBk2RESIFFgJwjl81v)
 - [Graph & Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6yl4l36yla9Ew5Kn8sSlqn)
 - [Basic Algorithms & Implementation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7vXtQkXZHPz9yo7SBFiuOK)
+- [String Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4J8b0wsY_a8I5HK0JEfdCA)
+- [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6KnqlY4dO-b_6a2L87CfXg)
 
 ## Leetcode
 - [Bit Manipulation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5P-QfTYVY_fIFtcVbIz9ij)
@@ -84,6 +87,7 @@ I have courses like Number theory and graph theory course which start from basic
 - [Graph & Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5niWOljO7dQVn0o-zf_f9_)
 - [Binary Search](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik609P408nEkgYjgE12gFcyx)
 - [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5ihRT6oH2ztAYMnGBQ4gSa)
+- [String Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5xR-rGBIiP-1V2uK0GZpTT)
 - [Others](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5rJQUqzgHdlmK7MSR4n8AK)
 
 ## Hackerrank
