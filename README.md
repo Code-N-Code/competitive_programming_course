@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What you can learn from each problem | CSES | Tree algorithms](https://www.youtube.com/watch?v=Tn-VOuzcB4w)
 - [#04 Dependency Injection - Setter & Constructor Injection | Spring REST | CodeNCode](https://www.youtube.com/watch?v=4mUw3aYhsWk)
 - [Educational Round teaches you why you should do up-solving | CodeNCode](https://www.youtube.com/watch?v=KsQTLdEX12E)
 - [How to get Started with Competitive Programming | CodeNCode](https://www.youtube.com/watch?v=-U3y2JfDtDE)
 - [#03.2 Spring IOC & Loosely Coupled Applications | Spring REST | CodeNCode](https://www.youtube.com/watch?v=DpsWzmY80eQ)
-- [#03.1 Spring IOC & Loosely Coupled Applications | Spring REST | CodeNCode](https://www.youtube.com/watch?v=R9kiqULCnrE)
 <!-- YOUTUBE:END -->
 
 
