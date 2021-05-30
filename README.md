@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E003 : Reunion of 1's | Hackerearth | Disjoint Set](https://www.youtube.com/watch?v=ge6e7swYrvs)
 - [2 bees together open a soda bottel  | No ads](https://www.youtube.com/watch?v=GRTAvC-FgeE)
 - [E05 : Subtree Queries | CSES | Tree Algorithms](https://www.youtube.com/watch?v=zSB4pInjIa8)
 - [ReLevel By UnAcademy : India's first Hiring Tournament Platform](https://www.youtube.com/watch?v=DpwqO0-IaTg)
 - [DIV2 Round 722 Problem B and C Solution Hint | CodeNCode](https://www.youtube.com/watch?v=2J8Xg3zXqAI)
-- [L11 : Subtree Sum with Node update using segment tree or BIT | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=oNrlNppqvYI)
 <!-- YOUTUBE:END -->
 
 
