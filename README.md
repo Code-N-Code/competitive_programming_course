@@ -13,11 +13,8 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Should you use memset( ) in C++ ? | CodeNCode](https://www.youtube.com/watch?v=Ldo0bJowLrY)
-- [L08 : count , count_if & for_each functions | C++ STL & Algorithms](https://www.youtube.com/watch?v=2qiz3nUF4HI)
-- [L07 : Different binary search function in C++ | C++ STL & Algorithms](https://www.youtube.com/watch?v=pM-9C78stZA)
-- [E003 : Reunion of 1's | Hackerearth | Disjoint Set](https://www.youtube.com/watch?v=ge6e7swYrvs)
-- [2 bees together open a soda bottel  | No ads](https://www.youtube.com/watch?v=GRTAvC-FgeE)
+- [What you can learn from each problem | CSES | Tree algorithms](https://www.youtube.com/watch?v=Tn-VOuzcB4w)
+- [#03.2 Spring IOC & Loosely Coupled Applications | Spring REST | CodeNCode](https://www.youtube.com/watch?v=DpsWzmY80eQ)
 <!-- YOUTUBE:END -->
 
 
