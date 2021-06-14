@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Geometry Lectures preparation takes back to school 🥺 | CodeNCode](https://www.youtube.com/watch?v=a-laBC1vsyo)
 - [Invitation to DSA Carnival Bootcamp | Tree & Related algorithms](https://www.youtube.com/watch?v=4417hCL5r-I)
 - [L03 : C++ Implementation of Finding if 2 lines segment intersect | Geometric Algorithms](https://www.youtube.com/watch?v=tO1uZ8KK2qQ)
 - [L02: Finding if 2 lines segment intersect | Geometric Algorithms](https://www.youtube.com/watch?v=dpOIEo6tn88)
 - [L09 : max_element , min_element , equal & mismatch functions | C++ STL & Algorithms](https://www.youtube.com/watch?v=UrIszftX8Gc)
-- [Should you use memset( ) in C++ ? | CodeNCode](https://www.youtube.com/watch?v=Ldo0bJowLrY)
 <!-- YOUTUBE:END -->
 
 
