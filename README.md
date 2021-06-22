@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E004 : Rebuild (MST) | Hackerearth | Graph & Tree](https://www.youtube.com/watch?v=hvY3hhYMd20)
 - [L10 : C++ BitSet  | C++ STL & Algorithms](https://www.youtube.com/watch?v=uUPxJ-q31uk)
 - [#05 Minimizing configuration & Component Scan | Spring REST | CodeNCode](https://www.youtube.com/watch?v=pPVM2B_L0S0)
 - [E01 : Point Location Test (CSES) | Geomtry | CodeNCode](https://www.youtube.com/watch?v=RwYqbZuPWFA)
 - [E02 : ABCDEF (Spoj) | Binary Search | CodeNCode](https://www.youtube.com/watch?v=o9DuqoMetho)
-- [Geometry Lectures preparation takes back to school 🥺 | CodeNCode](https://www.youtube.com/watch?v=a-laBC1vsyo)
 <!-- YOUTUBE:END -->
 
 
