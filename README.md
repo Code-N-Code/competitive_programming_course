@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L03 : Introduction to Linked List | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=9b8aZUjPCws)
 - [L02 : Brief introduction to Pointers & Structures | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=nKoSZdd8zT8)
 - [L01 : Overview of Pointers & Related DS Course | CodeNCode](https://www.youtube.com/watch?v=AAPYbQGb02Q)
 - [E005 : Strange Function (DIV2 Round 729 C) | Codeforces | Number Theory](https://www.youtube.com/watch?v=67fIDq3xdK0)
 - [ReLevel By UnAcademy : India's first Hiring Test Platform](https://www.youtube.com/watch?v=FfWyI8sRp6w)
-- [E007 : Kavi on Pairing Duty | Dynamic Programming | Codeforces](https://www.youtube.com/watch?v=x2RR_U2Tda8)
 <!-- YOUTUBE:END -->
 
 
