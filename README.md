@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L11 : C++ sort( ) , stable_sort( )  & comparator function | C++ STL & Algorithms](https://www.youtube.com/watch?v=4JzWkuCAoGU)
 - [L05 : Doubly linked list implementation | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=qbYUJtbuLnE)
 - [Moving Arrow animation | Advanced Pattern Printing in C++ | CodeNCode](https://www.youtube.com/watch?v=7kwmRgoDmEw)
 - [L04 : Linked List Implementation | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=vGGwr5ywGV4)
 - [L03 : Introduction to Linked List | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=9b8aZUjPCws)
-- [L02 : Brief introduction to Pointers & Structures | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=nKoSZdd8zT8)
 <!-- YOUTUBE:END -->
 
 
