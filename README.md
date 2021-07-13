@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hosting SpringBoot Application on Cloud (Azure) | CodeNCode](https://www.youtube.com/watch?v=FBGpLT-xoYA)
 - [Relevel : Your journey to India's Top Companies](https://www.youtube.com/watch?v=SodrSQf8HSo)
 - [L17 : Minimum number you can not make | Dynamic Programming Part 1 | CodeNCode](https://www.youtube.com/watch?v=SO1lFWyaSdE)
 - [#06 Building REST API using Spring Boot | Spring REST | CodeNCode](https://www.youtube.com/watch?v=VXwSTwO1RwQ)
 - [L11 : C++ sort( ) , stable_sort( )  & comparator function | C++ STL & Algorithms](https://www.youtube.com/watch?v=4JzWkuCAoGU)
-- [L05 : Doubly linked list implementation | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=qbYUJtbuLnE)
 <!-- YOUTUBE:END -->
 
 
