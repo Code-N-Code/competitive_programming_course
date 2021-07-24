@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E005 : Interesting Story | Codeforces | Greedy Algorithm](https://www.youtube.com/watch?v=-UTekIk-42Q)
 - [L13 - working with permutation & Lexicographical order | C++ STL & Algorithms | CodeNCode](https://www.youtube.com/watch?v=pKf4bYqAi44)
 - [Google's Holi fact | CodeNCode](https://www.youtube.com/watch?v=ZrQWO81fZfg)
 - [L12 : C++ Valarry - Closest thing to python | C++ STL & Algorithms | CodeNCode](https://www.youtube.com/watch?v=9ILYQDxMNlU)
 - [Hosting SpringBoot Application on Cloud (Azure) | CodeNCode](https://www.youtube.com/watch?v=FBGpLT-xoYA)
-- [Relevel : Your journey to India's Top Companies](https://www.youtube.com/watch?v=SodrSQf8HSo)
 <!-- YOUTUBE:END -->
 
 
