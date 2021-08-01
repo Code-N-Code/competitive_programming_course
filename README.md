@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E02 : Building Roads | Graph Algorithms | CSES](https://www.youtube.com/watch?v=9u0WUGL8OS8)
 - [E03 : Forest Queries | Range Queries | CSES](https://www.youtube.com/watch?v=ONDFFcD6GXc)
 - [L14 : Everything about Priority Queue | C++ STL & Algorithms | CodeNCode](https://www.youtube.com/watch?v=sb6we7NpPr4)
 - [E02 : Static Range Sum Queries | Range Queries | CSES](https://www.youtube.com/watch?v=n1hCcWAOjrs)
 - [E01 : Range XOR Queries | Range Queries | CSES](https://www.youtube.com/watch?v=INkL6KOQTHc)
-- [E005 : Interesting Story | Codeforces | Greedy Algorithm](https://www.youtube.com/watch?v=-UTekIk-42Q)
 <!-- YOUTUBE:END -->
 
 
