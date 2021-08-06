@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to reach to a 1Crore package in next 5 years](https://www.youtube.com/watch?v=R1Te-_dcCFY)
 - [L06 : Different deletion techniques in Linked List | Pointers & Related Data Structures | CodeNCode](https://www.youtube.com/watch?v=UbHohWNKBXY)
 - [E03 : Message Route | Graph Algorithms | CSES](https://www.youtube.com/watch?v=9I1LBFPW0iE)
 - [Your journey to India's Top Companies](https://www.youtube.com/watch?v=7Ki-hZWSGh4)
 - [E02 : Building Roads | Graph Algorithms | CSES](https://www.youtube.com/watch?v=9u0WUGL8OS8)
-- [E03 : Forest Queries | Range Queries | CSES](https://www.youtube.com/watch?v=ONDFFcD6GXc)
 <!-- YOUTUBE:END -->
 
 
