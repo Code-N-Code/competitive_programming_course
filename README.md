@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E06 : Company Queries II | Tree Algorithms | CSES](https://www.youtube.com/watch?v=gr4ufl8K4Lo)
 - [E001 : Longest substring without repeating characters | Leetcode](https://www.youtube.com/watch?v=BSU8tUeVchM)
 - [L26 : Finding & Printing cycles in graph | Graph Theory Course Part 1](https://www.youtube.com/watch?v=JoOuju5N-5g)
 - [Session 05 : introduction to recursion | Evolution Batch 1 & 2](https://www.youtube.com/watch?v=mvNejWDjWAs)
 - [Invitation to Live session on recursion | CodeNCode](https://www.youtube.com/watch?v=rDc6UKzVIio)
-- [E01 : Trapping Rain Water | Greedy Algorithm | Leetcode](https://www.youtube.com/watch?v=V7Y6cQEGtwk)
 <!-- YOUTUBE:END -->
 
 
