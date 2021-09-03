@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E004 : Sliding Window Maximum | Leetcode](https://www.youtube.com/watch?v=0UHJsW2yyVg)
 - [Get the best job with minimal efforts](https://www.youtube.com/watch?v=keux66RMoag)
 - [E003 : First Missing Positive | Leetcode](https://www.youtube.com/watch?v=Whhpvk2k5qk)
 - [E002 : Largest Rectangle in Histogram | Leetcode](https://www.youtube.com/watch?v=D0AjkeucpJQ)
 - [E008 : XOR Pyramid | Dynamic Programming | Codeforces](https://www.youtube.com/watch?v=aCXANJ_087Y)
-- [E06 : Road Construction | Graph Algorithms | CSES](https://www.youtube.com/watch?v=Cwv0W02J0Q0)
 <!-- YOUTUBE:END -->
 
 
