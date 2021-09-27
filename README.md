@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L31 : Chinese Remainder Theorem - Part 1 | Number Theory](https://www.youtube.com/watch?v=upCVh5WvAoU)
 - [E007 : Jump Game II | Leetcode | CodeNCode](https://www.youtube.com/watch?v=GzND1mzfUHs)
 - [E006 : Find median from data stream | Leetcode](https://www.youtube.com/watch?v=5n8zI4ZOVCc)
 - [E005 : Add two numbers | Leetcode | CodeNCode](https://www.youtube.com/watch?v=43auhjHthQ8)
 - [Optical Character Recognition (OCR) Using Tesseract & OpenCV | CodeNCode](https://www.youtube.com/watch?v=U7LCSJNvTTc)
-- [E004 : Sliding Window Maximum | Leetcode](https://www.youtube.com/watch?v=0UHJsW2yyVg)
 <!-- YOUTUBE:END -->
 
 
