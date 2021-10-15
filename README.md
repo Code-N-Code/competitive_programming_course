@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Pie Chart in less than 2 minutes using python | CodeNCode](https://www.youtube.com/watch?v=xwhK00a4oA0)
 - [E009 : Container with maximum water | Leetcode | CodeNCode](https://www.youtube.com/watch?v=1jTzmre77Pc)
 - [E008 : Jump Game | Leetcode | CodeNCode](https://www.youtube.com/watch?v=D2Rcv28mRp0)
 - [L32 : Chinese Remainder Theorem Part 2 | Number Theorem](https://www.youtube.com/watch?v=Nk5siv747bQ)
 - [L31 : Chinese Remainder Theorem - Part 1 | Number Theory](https://www.youtube.com/watch?v=upCVh5WvAoU)
-- [E007 : Jump Game II | Leetcode | CodeNCode](https://www.youtube.com/watch?v=GzND1mzfUHs)
 <!-- YOUTUBE:END -->
 
 
