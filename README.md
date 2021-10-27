@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E05 : Great XOR | Bit Manipulation](https://www.youtube.com/watch?v=kxcMzvobLVo)
 - [L07 : find Missing & Repeating Number | Bit Manipulation](https://www.youtube.com/watch?v=mtiEO61qS84)
 - [E006 : Path Queries | Graph & Trees | Codeforces](https://www.youtube.com/watch?v=VCCcg6uxXfs)
 - [Maximum Number Of Distinct Elements | SnackDown | Codechef](https://www.youtube.com/watch?v=nrpurx2ePmQ)
 - [Pie Chart in less than 2 minutes using python | CodeNCode](https://www.youtube.com/watch?v=xwhK00a4oA0)
-- [E009 : Container with maximum water | Leetcode | CodeNCode](https://www.youtube.com/watch?v=1jTzmre77Pc)
 <!-- YOUTUBE:END -->
 
 
