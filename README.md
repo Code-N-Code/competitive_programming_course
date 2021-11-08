@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E07 : Road Reparation | Graph Algorithms | CSES](https://www.youtube.com/watch?v=BDbXyrvwn1g)
 - [If Afghanistan wins today | CodeNCode](https://www.youtube.com/watch?v=Vua3Zzm6DeM)
 - [L34 : Calculating huge power modulo some prime | Number Thoery](https://www.youtube.com/watch?v=13smuznkehQ)
 - [L33 : Wilson&#39;s Theorem | Number Theory | CodeNCode](https://www.youtube.com/watch?v=HqUAUA9u_qs)
 - [Best 3 resources for competitive programming | CodeNCode](https://www.youtube.com/watch?v=Q79hNcwY11Q)
-- [E006 : Really Big Numbers | Basic algorithms &amp; Implementation](https://www.youtube.com/watch?v=Uks7ZV_iNBI)
 <!-- YOUTUBE:END -->
 
 
