@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E010 : Merge K Sorted Lists | LeetCode | CodeNCode](https://www.youtube.com/watch?v=YnPzuFxEBy8)
 - [E02 : Money Sums | Dynamic Programming | CSES](https://www.youtube.com/watch?v=rRhWyZXmEcQ)
 - [L06.1 : Detecting Cycle in Directed Graph | Graph Theory Course Part 1](https://www.youtube.com/watch?v=XmCHHSiXARc)
 - [E02 : Throwing Dice &amp; Fibonacci Numbers | Mathematics | CSES](https://www.youtube.com/watch?v=XeKH491MXek)
 - [E01 : Distributing Apples | Mathematics | CSES](https://www.youtube.com/watch?v=xv1LiqqdE9g)
-- [E08 : Course Schedule | Graph Algorithms | CSES](https://www.youtube.com/watch?v=eeZxxor8el4)
 <!-- YOUTUBE:END -->
 
 
