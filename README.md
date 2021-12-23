@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Work #02 | CodeNCode](https://www.youtube.com/watch?v=ReS_hFPaGqU)
 - [E008 : Roads in Berland | Graph &amp; Trees | Codeforces](https://www.youtube.com/watch?v=YpoEpDu2rWM)
 - [If you have learned Floyd-Warshall algorithm | CodeNCode](https://www.youtube.com/watch?v=RH3dyPOynDY)
 - [E06 : Prefix Sum Queries | Range Queries | CSES](https://www.youtube.com/watch?v=LC4I9xaEW_Q)
 - [What if a man did it ? | CodeNCode](https://www.youtube.com/watch?v=K759YMfAyH0)
-- [E010 : Merge K Sorted Lists | LeetCode | CodeNCode](https://www.youtube.com/watch?v=YnPzuFxEBy8)
 <!-- YOUTUBE:END -->
 
 
