@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L05 : Area of a polygon | Geometry | CodeNCode](https://www.youtube.com/watch?v=8kqF_DFR7rc)
 - [E009 : Edges in MST | Graph &amp; Tree | Codeforces](https://www.youtube.com/watch?v=8baKFwalCfo)
 - [Home Work #02 | CodeNCode](https://www.youtube.com/watch?v=ReS_hFPaGqU)
 - [E008 : Roads in Berland | Graph &amp; Trees | Codeforces](https://www.youtube.com/watch?v=YpoEpDu2rWM)
 - [If you have learned Floyd-Warshall algorithm | CodeNCode](https://www.youtube.com/watch?v=RH3dyPOynDY)
-- [E06 : Prefix Sum Queries | Range Queries | CSES](https://www.youtube.com/watch?v=LC4I9xaEW_Q)
 <!-- YOUTUBE:END -->
 
 
