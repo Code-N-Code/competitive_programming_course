@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Making hard algorithms easy to learn Feat. Convex Hull | CodeNCode](https://www.youtube.com/watch?v=T0R-H1kwKN8)
 - [E03 : Polygon Area | Geometry | CSES](https://www.youtube.com/watch?v=I-192KIIKio)
 - [L05 : Area of a polygon | Geometry | CodeNCode](https://www.youtube.com/watch?v=8kqF_DFR7rc)
 - [E009 : Edges in MST | Graph &amp; Tree | Codeforces](https://www.youtube.com/watch?v=8baKFwalCfo)
 - [Home Work #02 | CodeNCode](https://www.youtube.com/watch?v=ReS_hFPaGqU)
-- [E008 : Roads in Berland | Graph &amp; Trees | Codeforces](https://www.youtube.com/watch?v=YpoEpDu2rWM)
 <!-- YOUTUBE:END -->
 
 
