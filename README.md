@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#01 Google SWE2 Interview Experience Part 1 | CodeNCode](https://www.youtube.com/watch?v=LEkR6CyciYw)
 - [way to Go-ogle | CodeNCode](https://www.youtube.com/watch?v=F1cbnt_4vPk)
 - [E001 : &lpar;#1721&rpar; Swapping nodes in a linked list | Linked List | LeetCode](https://www.youtube.com/watch?v=mH6BqcZWyHQ)
 - [E008 : Differential Sorting | Constructive Algorithm | Codeforces](https://www.youtube.com/watch?v=WsSyW-5xy9A)
 - [#codeforces div2 round 772 | CodeNCode](https://www.youtube.com/watch?v=RQJdkv3dCW8)
-- [E001 : One Geometry Problem | Geometry | SPOJ](https://www.youtube.com/watch?v=z_KqPQWTZIQ)
 <!-- YOUTUBE:END -->
 
 
