@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [way to Go-ogle | CodeNCode](https://www.youtube.com/watch?v=F1cbnt_4vPk)
-- [E001 : &lpar;#1721&rpar; Swapping nodes in a linked list | Linked List | LeetCode](https://www.youtube.com/watch?v=mH6BqcZWyHQ)
-- [E008 : Differential Sorting | Constructive Algorithm | Codeforces](https://www.youtube.com/watch?v=WsSyW-5xy9A)
-- [#codeforces div2 round 772 | CodeNCode](https://www.youtube.com/watch?v=RQJdkv3dCW8)
-- [E001 : One Geometry Problem | Geometry | SPOJ](https://www.youtube.com/watch?v=z_KqPQWTZIQ)
+- [L11 : Insertion &amp; Search in Trie DS | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=y9Qdb7maM4I)
+- [L10 : Structure of Trie Data Structure | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=EJcgHH2Z6Go)
+- [L09 : Why to learn Trie DS | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=jpe6MWIzeXI)
+- [L08 : Z Algorithm and its applications | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=6mzNnEGimPA)
+- [E001 : A Good String | Divide &amp; Conquer | CodeNCode](https://www.youtube.com/watch?v=HlIHIXyPUTs)
 <!-- YOUTUBE:END -->
 
 
