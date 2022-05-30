@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L03 : Segment Tree implementation | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=c3GJ4rmbO9Y)
+- [L02 : Introduction To Segment Tree | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=iNKVm4Mhf7I)
+- [L01 : Course Overview | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=2UXFL92iILg)
 - [L11 : Insertion &amp; Search in Trie DS | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=y9Qdb7maM4I)
 - [L10 : Structure of Trie Data Structure | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=EJcgHH2Z6Go)
-- [L09 : Why to learn Trie DS | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=jpe6MWIzeXI)
-- [L08 : Z Algorithm and its applications | String Algorithms | CodeNCode](https://www.youtube.com/watch?v=6mzNnEGimPA)
-- [E001 : A Good String | Divide &amp; Conquer | CodeNCode](https://www.youtube.com/watch?v=HlIHIXyPUTs)
 <!-- YOUTUBE:END -->
 
 
