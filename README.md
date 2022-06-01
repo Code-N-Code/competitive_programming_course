@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L03 : Practice Problem 1 - DQUERY &lpar;SPOJ&rpar; | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=58E0UAhU1KI)
+- [L02 : Introduction to Mo&#39;s Algorithm | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=rF4FKjwOl4Q)
+- [L01 : Square Root Decomposition | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=xJLI5uf9KYo)
 - [E005 : Same Difference | Basic Algorithms &amp; Implementations | CodeNCode](https://www.youtube.com/watch?v=g2g69xfNi9I)
 - [E004 : TMT Document | Basic Algorithms &amp; Implementations | CodeNCode](https://www.youtube.com/watch?v=08wFLkp0WyM)
-- [L10 : Merge Sort Tree Answering Queries | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=4tr5aFoBark)
-- [L09 : Merge Sort Tree Implementation &amp; Space Complexity | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=reiauiitZiA)
-- [L08 : Introduction to Merge Sort Tree | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=0CunYZMacow)
 <!-- YOUTUBE:END -->
 
 
