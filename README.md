@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E004 : TMT Document | Basic Algorithms &amp; Implementations | CodeNCode](https://www.youtube.com/watch?v=08wFLkp0WyM)
 - [L10 : Merge Sort Tree Answering Queries | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=4tr5aFoBark)
 - [L09 : Merge Sort Tree Implementation &amp; Space Complexity | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=reiauiitZiA)
 - [L08 : Introduction to Merge Sort Tree | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=0CunYZMacow)
 - [L07 : Lazy Propagation Implementation | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=f-GW4ZWxT0o)
-- [L06 : Lazy Propagation | Segment Tree | CodeNCode](https://www.youtube.com/watch?v=BXFDuWciQ2I)
 <!-- YOUTUBE:END -->
 
 
