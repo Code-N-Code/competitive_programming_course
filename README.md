@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [L11 : Subtree Sum query with point update using Segment tree or BIT | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=hdiOGIJ1kmw)
-- [L10 : Range Queries techniques &lpar;Like segment tree&rpar; on Trees | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=C_qgHp6e9rw)
-- [L09 : Centroid Decomposition : Updates &amp; Queries | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=e9kJR2QBuTw)
-- [L08 : Centroid Decomposition Implementation | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=PVdzAj-l8IM)
-- [L07 : Height &amp; Structure of Centroid Decomposition | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=kKgZPqfeTKY)
+- [L05 : Pigeonhole Principle | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=WS9r8ruaiEY)
+- [L04 : Stars and Bars Part 3 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=hbDP0yaLIlc)
+- [L03 : Practice Problem 1 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=p-LkiKEKzJ8)
+- [L02 : Stars and Bars Part 2 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=iimbiogbr98)
+- [L01 : Stars And Bars Part 1 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=FqeGh31DPhA)
 <!-- YOUTUBE:END -->
 
 
