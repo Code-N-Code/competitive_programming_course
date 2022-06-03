@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E003 : Minimum Path Sum | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=t8EsIWPwVwY)
+- [E002 : Minimum Falling Path Sum | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=lmmS5RrINKI)
+- [E001 : Koko Eating Bananas | Binary Search | CodeNCode](https://www.youtube.com/watch?v=s5-ufXLzO1k)
+- [E001 : Partition Equal Subset Sum | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=p0fsJIDboOg)
 - [L05 : Pigeonhole Principle | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=WS9r8ruaiEY)
-- [L04 : Stars and Bars Part 3 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=hbDP0yaLIlc)
-- [L03 : Practice Problem 1 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=p-LkiKEKzJ8)
-- [L02 : Stars and Bars Part 2 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=iimbiogbr98)
-- [L01 : Stars And Bars Part 1 | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=FqeGh31DPhA)
 <!-- YOUTUBE:END -->
 
 
