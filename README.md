@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L11 : Subtree Sum query with point update using Segment tree or BIT | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=hdiOGIJ1kmw)
+- [L10 : Range Queries techniques &lpar;Like segment tree&rpar; on Trees | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=C_qgHp6e9rw)
 - [L09 : Centroid Decomposition : Updates &amp; Queries | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=e9kJR2QBuTw)
 - [L08 : Centroid Decomposition Implementation | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=PVdzAj-l8IM)
 - [L07 : Height &amp; Structure of Centroid Decomposition | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=kKgZPqfeTKY)
-- [L06 : Introduction to Centroid Decomposition and related problems | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=Oh_w15c6k58)
-- [L05 : Gao on Tree &lpar;SPOJ&rpar; | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=VJC4nUPAFmM)
 <!-- YOUTUBE:END -->
 
 
