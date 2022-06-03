@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [L04 : Practice Problem 2 - Powerful Array | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=lamb9TrbCEs)
-- [L03 : Practice Problem 1 - DQUERY &lpar;SPOJ&rpar; | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=58E0UAhU1KI)
-- [L02 : Introduction to Mo&#39;s Algorithm | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=rF4FKjwOl4Q)
-- [L01 : Square Root Decomposition | SQRT &amp; Mo&#39;s Algorithm | CodeNCode](https://www.youtube.com/watch?v=xJLI5uf9KYo)
-- [E005 : Same Difference | Basic Algorithms &amp; Implementations | CodeNCode](https://www.youtube.com/watch?v=g2g69xfNi9I)
+- [L05 : Gao on Tree &lpar;SPOJ&rpar; | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=VJC4nUPAFmM)
+- [L04 : Path Queries and Mo&#39;s algorithm | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=mrdTs2SCmAg)
+- [L03 : Tree and Queries Part 2 | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=9oVVgTcE8po)
+- [L02 : Tree and Queries Part 1 | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=NV6nd2-3H24)
+- [L01 : Euler Tour Technique or Tree Flattening | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=AsXUVGh6WKI)
 <!-- YOUTUBE:END -->
 
 
