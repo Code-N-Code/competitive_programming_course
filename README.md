@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L09 : Centroid Decomposition : Updates &amp; Queries | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=e9kJR2QBuTw)
+- [L08 : Centroid Decomposition Implementation | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=PVdzAj-l8IM)
+- [L07 : Height &amp; Structure of Centroid Decomposition | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=kKgZPqfeTKY)
+- [L06 : Introduction to Centroid Decomposition and related problems | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=Oh_w15c6k58)
 - [L05 : Gao on Tree &lpar;SPOJ&rpar; | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=VJC4nUPAFmM)
-- [L04 : Path Queries and Mo&#39;s algorithm | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=mrdTs2SCmAg)
-- [L03 : Tree and Queries Part 2 | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=9oVVgTcE8po)
-- [L02 : Tree and Queries Part 1 | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=NV6nd2-3H24)
-- [L01 : Euler Tour Technique or Tree Flattening | Queries On Tree | CodeNCode](https://www.youtube.com/watch?v=AsXUVGh6WKI)
 <!-- YOUTUBE:END -->
 
 
