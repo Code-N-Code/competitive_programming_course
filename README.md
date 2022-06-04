@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E001 : Longest Substring Without Repeating Characters | Top 100 liked questions | CodeNCode](https://www.youtube.com/watch?v=LsHQ2N3p3tk)
 - [E01 : Trapping Raining Water | Greedy Algorithms | CodeNCode](https://www.youtube.com/watch?v=h0f6SBvsmcY)
 - [E001 : Reverse Integer | Math | CodeNCode](https://www.youtube.com/watch?v=j3cxF7e5GjI)
 - [E006 : Unique Paths II | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=B0iP2G4DzJ0)
 - [E005 : Unique Ways | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=96OWK48sDis)
-- [E004 : Longest Palindromic Substring | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=ikfJ7YEqad4)
 <!-- YOUTUBE:END -->
 
 
