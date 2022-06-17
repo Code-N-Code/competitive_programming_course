@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E003 : Orac &amp; LCM | Number Theory | CodeNCode](https://www.youtube.com/watch?v=xPCPbhGr5pA)
+- [E002 : Weakened Common Divisor | Number Theory | CodeNCode](https://www.youtube.com/watch?v=uHSRn9uQ9fw)
+- [E001 : Modified GCD | Number Theory | CodeNCode](https://www.youtube.com/watch?v=X-P60NXadEU)
+- [E01 : Guess the kth 0 | Interactive Problems | CodeNCode](https://www.youtube.com/watch?v=1ynpFSmKrkU)
 - [Google Off-Campus Interview Experience and More | Interview Experiences | CodeNCode](https://www.youtube.com/watch?v=_Rnp6NtqDaw)
-- [E001 : 01 Game | Game Theory | CodeNCode](https://www.youtube.com/watch?v=NtjzkWahKO4)
-- [E008 : XOR Pyramid | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=Ssl0xXQvkHc)
-- [E007 : Kavi on Pairing Duty | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=20tm0_K3Z1A)
-- [E05 : Distance in Tree | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=jXSDgrdYRC0)
 <!-- YOUTUBE:END -->
 
 
