@@ -42,15 +42,15 @@ I have courses like Number theory and graph theory course which start from basic
 # Video Editorials : By Platform
 
 ## Codeforces
-- [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7Fz2JrP7meOtxUvEXy926-)
-- [Dynamic Programming](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g)
-- [Graph & Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7Ufc3rsyB3lkmQGL6vOgdR)
-- [Constructive Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7ALIK6Lu0uhCHYu-RS9m3H)
-- [Basic Algorithms & Implementation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5Z3xcF-D0OgHv7QOvlokSm)
-- [Combinatorics](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik55RpncW2883UUFpg8eWy7X)
+- [Number Theory](https://www.youtube.com/playlist?list=PL5DyztRVgtRU8HGf3kS7hcTcdyH3nScKp)
+- [Dynamic Programming](https://www.youtube.com/playlist?list=PL5DyztRVgtRWcYF9rnQHZBXobcCY7RQlF)
+- [Graph & Tree](https://www.youtube.com/playlist?list=PL5DyztRVgtRUVZ5njIqE5sbrTun_uJ038)
+- [Constructive Algorithms](https://www.youtube.com/playlist?list=PL5DyztRVgtRW2zr4MoBVHd4yQakKyMWdQ)
+- [Basic Algorithms & Implementation](https://www.youtube.com/playlist?list=PL5DyztRVgtRVoauNg6jvHwtz4oq_5IuDz)
+- [Combinatorics](https://www.youtube.com/playlist?list=PL5DyztRVgtRUVdVr7tOksqdizdyhXXQPS)
 - [Greedy Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6WB7SKtjEhwbQiLaD186OS)
-- [Divide & Conquer](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5B4cxExMX6Hut2fyLBIVwJ)
-- [Game Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7YDlm3uc9Hmlm6QWAtXV1h)
+- [Divide & Conquer](https://www.youtube.com/playlist?list=PL5DyztRVgtRWNLpq1XTIR_YReb6MJlahg)
+- [Game Theory](https://www.youtube.com/playlist?list=PL5DyztRVgtRWMI4K5bKi6YacmwqM6bB_Q)
 
 ## Codechef
 - [Long Challenge](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4vzMIGBlRDRNE6gt_ucw2q)
