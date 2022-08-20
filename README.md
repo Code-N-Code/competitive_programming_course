@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E001 : Maximum Level Sum of a Binary Tree | Graph Algorithms | CodeNCode](https://www.youtube.com/watch?v=8BmbYPRpaF8)
 - [E005 : Strange Function | Number Theory | CodeNCode](https://www.youtube.com/watch?v=eMWmsEBiNL4)
 - [E004 : Zero remainder array | Number Theory | CodeNCode](https://www.youtube.com/watch?v=aEscYnTyBrU)
 - [E003 : Orac &amp; LCM | Number Theory | CodeNCode](https://www.youtube.com/watch?v=xPCPbhGr5pA)
 - [E002 : Weakened Common Divisor | Number Theory | CodeNCode](https://www.youtube.com/watch?v=uHSRn9uQ9fw)
-- [E001 : Modified GCD | Number Theory | CodeNCode](https://www.youtube.com/watch?v=X-P60NXadEU)
 <!-- YOUTUBE:END -->
 
 
