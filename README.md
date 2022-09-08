@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E002 : ADA and pet | String Algorithms | SPOJ](https://www.youtube.com/watch?v=oj5EWo7PL9M)
+- [E001 : Needle in Haystack | String Algorithms | SPOJ](https://www.youtube.com/watch?v=M1YnWbHRZbU)
 - [E007 : GCD  Extreme | Number Theory | SPOJ](https://www.youtube.com/watch?v=H8Eq3qvl5y8)
 - [E006 : Crucial Equation | Number Theory | SPOJ](https://www.youtube.com/watch?v=vOLbKUBAtzc)
 - [E005 : Base Exploration | Number Theory | SPOJ](https://www.youtube.com/watch?v=UEXGZxnMCTI)
-- [E004 : LCM Sum  | Number Theory | SPOJ](https://www.youtube.com/watch?v=qkwEURG-_XM)
-- [E003 : Prime Generator | Number Theory | SPOJ](https://www.youtube.com/watch?v=BH49ln0Qb_0)
 <!-- YOUTUBE:END -->
 
 
