@@ -1,6 +1,8 @@
+// Problem Name : D. Replace By MEX
 // Problem Link : https://codeforces.com/contest/1375/problem/D
 // Video solution link : 
 // Write here if video solution doesn't exist : icodencode@gmail.com
+// Channel name & link : CodeNCode (https://www.youtube.com/@codencode)
 #include<bits/stdc++.h>
 #define vi vector<int>
 #define ll long long
