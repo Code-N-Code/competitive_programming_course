@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E001 : Knight Moves | Graph &amp; Tree | Codechef](https://www.youtube.com/watch?v=cjj82AVTnVs)
 - [L01 : Orientation of 3 points | Geometric Algorithm | CodeNCode](https://www.youtube.com/watch?v=IwKkiaoqwTc)
 - [E007 : Counting Bits using DP | Bit Manipulation | CodeNCode](https://www.youtube.com/watch?v=oidrF6nx01s)
 - [E006 : The Sports Festival | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=_AcGinQvK44)
 - [E006 : Binary Literacy | Constructive Algorithms | CodeNCode](https://www.youtube.com/watch?v=1JEpe7wl1u4)
-- [E002 : ADA and pet | String Algorithms | SPOJ](https://www.youtube.com/watch?v=oj5EWo7PL9M)
 <!-- YOUTUBE:END -->
 
 
