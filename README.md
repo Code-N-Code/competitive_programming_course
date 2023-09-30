@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L02 : Understanding Core Of Binary Search  | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=QTaZVHgzvf0)
+- [L01 : Why you should Learn Binary Search | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=nY93EqOsIpY)
 - [E05 : Subtree Queries | Tree Algorithms | CodeNCode](https://www.youtube.com/watch?v=EvfDvkKfp-0)
 - [E04 : Tree Distances II | Tree Algorithms | CodeNCode](https://www.youtube.com/watch?v=ghGbPzwk0L0)
 - [E03 : Distinct Colors | Tree Algorithms | CodeNCode](https://www.youtube.com/watch?v=LE3P6SSLCKs)
-- [E02 : Tree Diameter | Tree Algorithms | CodeNCode](https://www.youtube.com/watch?v=zL-tcbwtDDE)
-- [E01 : Finding a Centroid | Tree Algorithms | CodeNCode](https://www.youtube.com/watch?v=o9hWO52bxI4)
 <!-- YOUTUBE:END -->
 
 
