@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L01 : DB , Table and other terminologies | MySQL DQL | CodeNCode](https://www.youtube.com/watch?v=Mhs-pcSVY9Y)
 - [L00 : Course Overview | MySQL DQL | CodeNCode](https://www.youtube.com/watch?v=Lc0x1P-PjWY)
 - [L03 : Monk&#39;s Encounter with Polynomial | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=WhFMTHu7kVc)
 - [L02 : Understanding Core Of Binary Search  | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=QTaZVHgzvf0)
 - [L01 : Why you should Learn Binary Search | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=nY93EqOsIpY)
-- [E05 : Subtree Queries | Tree Algorithms | CodeNCode](https://www.youtube.com/watch?v=EvfDvkKfp-0)
 <!-- YOUTUBE:END -->
 
 
