@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E004 : Permutation &amp; Cost of ith Cyclic Shift | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=zqWgqI8DMqs)
 - [L03 : Check If two Line segments Intersect | Geometric Algorithm | CodeNCode](https://www.youtube.com/watch?v=PXvNVfnUuVc)
 - [L02 : Finding if 2 lines segment intersect | Geometric Algorithm | CodeNCode](https://www.youtube.com/watch?v=rEVlLMt-fwk)
 - [E008 : Jump Game II | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=PrSi5u0KMyE)
 - [E007 : Jump Game | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=hRI42mqfHxU)
-- [L01 : Staircase Problem Iterative Approach | Dynamic Programming Part 1 | CodeNCode](https://www.youtube.com/watch?v=QR6Y4kTaIfU)
 <!-- YOUTUBE:END -->
 
 
