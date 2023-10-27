@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L005 : Calculating Cost of ith Cyclic Shift | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=wXQQWDjTOIk)
 - [E003 : AND 0 , big sum | Combinatorics | CodeNCode](https://www.youtube.com/watch?v=OyVuw02bypw)
 - [E004 : Permutation &amp; Cost of ith Cyclic Shift | Basic algorithms &amp; Implementation | CodeNCode](https://www.youtube.com/watch?v=zqWgqI8DMqs)
 - [L03 : Check If two Line segments Intersect | Geometric Algorithm | CodeNCode](https://www.youtube.com/watch?v=PXvNVfnUuVc)
 - [L02 : Finding if 2 lines segment intersect | Geometric Algorithm | CodeNCode](https://www.youtube.com/watch?v=rEVlLMt-fwk)
-- [E008 : Jump Game II | Dynamic Programming | CodeNCode](https://www.youtube.com/watch?v=PrSi5u0KMyE)
 <!-- YOUTUBE:END -->
 
 
