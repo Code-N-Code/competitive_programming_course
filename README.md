@@ -22,7 +22,7 @@ I have courses like Number theory and graph theory course which start from basic
 
 
 ## List of Courses by CodeNCode 
-- [Basic Algorithms](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5HC7D3gUwc8cqwDtvOaqke)
+- [Basic Algorithms](https://www.youtube.com/playlist?list=PL5DyztRVgtRW09egS6AY2oTVwF_5MfdRj)
 - [Bit Manipulation](https://www.youtube.com/playlist?list=PL5DyztRVgtRUVORP3AXvX91uovcaZv0q9)
 - [Combinatorics](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik48tGHU2eJxQdnGls2QPCBl)
 - [Disjoint Set Union](https://www.youtube.com/playlist?list=PL5DyztRVgtRVIAoYAKanON01SM7tVr8PE)
