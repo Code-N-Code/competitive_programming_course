@@ -87,7 +87,7 @@ I have courses like Number theory and graph theory course which start from basic
 - [Number Theory](https://www.youtube.com/playlist?list=PL5DyztRVgtRUeSPcvsTxVAdr7Jrp3S2oq)
 - [Graph & Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5niWOljO7dQVn0o-zf_f9_)
 - [Binary Search](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik609P408nEkgYjgE12gFcyx)
-- [Segment Tree](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5ihRT6oH2ztAYMnGBQ4gSa)
+- [Range Queries](https://www.youtube.com/playlist?list=PL5DyztRVgtRXQh9YUYhIbBvg-UrGJFAry)
 - [String Algorithms](https://www.youtube.com/playlist?list=PL5DyztRVgtRWOFCsK0khl_oXdOHkSgGoc)
 - [Others](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5rJQUqzgHdlmK7MSR4n8AK)
 
