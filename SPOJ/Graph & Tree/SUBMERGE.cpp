@@ -1,3 +1,11 @@
+/*
+ * Problem Name : SUBMERGE - Submerging Islands
+ * Problem Link : https://www.spoj.com/problems/SUBMERGE/
+ * Video solution link : https://youtu.be/sFLFU6wTVls
+ * Write here if video solution doesn't exist : icodencode@gmail.com
+ * Channel name & link : CodeNCode (https://www.youtube.com/@codencode)
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 
