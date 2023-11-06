@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E04 : Japanese Cities attributes | MySQL | HackerRank](https://www.youtube.com/watch?v=P7AiBQQEMlM)
 - [E001 : RationalLee | Greedy Algorithms | Codeforces](https://www.youtube.com/watch?v=QCzl0XwwKhE)
 - [E001 : SUBMERGE | Graph &amp; Tree | SPOJ](https://www.youtube.com/watch?v=sFLFU6wTVls)
 - [E03 : SELECT By ID | MySQL DQL | HackerRank](https://www.youtube.com/watch?v=BLL6bQyFhpE)
 - [L03 : WHERE Statement | MySQL DQL | CodeNCode](https://www.youtube.com/watch?v=QRhL5EAttXg)
-- [E001 : Cut and Stick | SQRT &amp; Mo&#39;s Algorithm | Codeforces](https://www.youtube.com/watch?v=zNadd6gLuAA)
 <!-- YOUTUBE:END -->
 
 
