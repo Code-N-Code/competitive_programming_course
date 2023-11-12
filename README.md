@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E01 : Lonely Integer | Bit Manipulation | Hackerrank](https://www.youtube.com/watch?v=KxNcrdbs4zA)
 - [E01 : Aggressive Cows | Binary Search | SPOJ](https://www.youtube.com/watch?v=lLA0BW_f8v0)
 - [E06 : Company Queries I | Tree Algorithms | CSES](https://www.youtube.com/watch?v=H8h8XazNOV4)
 - [E002 : Pluses and Minuses | Greedy Algorithms | Codeforces](https://www.youtube.com/watch?v=YewVnTMnxaE)
 - [E04 : Japanese Cities attributes | MySQL | HackerRank](https://www.youtube.com/watch?v=P7AiBQQEMlM)
-- [E001 : RationalLee | Greedy Algorithms | Codeforces](https://www.youtube.com/watch?v=QCzl0XwwKhE)
 <!-- YOUTUBE:END -->
 
 
