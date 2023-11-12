@@ -92,6 +92,6 @@ I have courses like Number theory and graph theory course which start from basic
 - [Others](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5rJQUqzgHdlmK7MSR4n8AK)
 
 ## Hackerrank
-- [Bit Manipulation](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4hYJ1dykHIJ68GR_Of8WiK)
+- [Bit Manipulation](https://www.youtube.com/playlist?list=PL5DyztRVgtRVOMi_HXpUXOje3rPbUdmez)
 - [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv)
 
