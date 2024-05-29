@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L01 :  Introduction to FFT | Advanced Number Theory | CodeNCode](https://www.youtube.com/watch?v=qm3rF5NwXSk)
 - [E003 : A walk to remember | Graph Algorithms | HackerEarth](https://www.youtube.com/watch?v=XPU5mTgrp1s)
 - [E08 : Employee Names | MySQL | HackerRank](https://www.youtube.com/watch?v=czstYd_gW2U)
 - [L05 : ORDER BY, DISTINCT and LIMIT operators | MySQL DQL | CodeNCode](https://www.youtube.com/watch?v=1OtzeHhRlxI)
 - [E004  : Sliding Window Maximum | Top 100 liked questions | CodeNCode](https://www.youtube.com/watch?v=ZzaRun9HviM)
-- [E07 : Revising the select query II | MySQL | HackerRank](https://www.youtube.com/watch?v=7ZlLlolbY1Q)
 <!-- YOUTUBE:END -->
 
 
