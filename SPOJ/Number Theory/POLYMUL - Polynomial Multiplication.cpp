@@ -1,7 +1,7 @@
 /*
  * Problem Name : POLYMUL - Polynomial Multiplication
  * Problem Link : https://www.spoj.com/problems/POLYMUL/
- * Video solution link : 
+ * Video solution link : https://youtu.be/Ki3r6CaVI3U
  * Write here if video solution doesn't exist : icodencode@gmail.com
  * Channel name & link : CodeNCode (https://www.youtube.com/@codencode)
  */
