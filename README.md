@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L09: Higher than 75 marks | MySQL | HackerRank](https://www.youtube.com/watch?v=B9bPZtVtwyk)
 - [E008: Polynomial Multiplication Upload | Number Theory | SPOJ](https://www.youtube.com/watch?v=Ki3r6CaVI3U)
 - [L05 : FFT Implementation &lpar;C++&rpar;  | Advanced Number Theory | CodeNCode](https://www.youtube.com/watch?v=5lnWTs-bmK4)
 - [L04 : FFT Part 3.2  | Advanced Number Theory | CodeNCode](https://www.youtube.com/watch?v=KxfzGkgiVz4)
 - [L03 - Fast Fourier Transform Part 3.1 | Advanced Number Theory | CodeNCode](https://www.youtube.com/watch?v=Gh4ocMna3Cc)
-- [L02 :  Introduction to FFT Part 2 | Advanced Number Theory | CodeNCode](https://www.youtube.com/watch?v=S_YbNIRWGJU)
 <!-- YOUTUBE:END -->
 
 
