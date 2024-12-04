@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [E11: Population Density Difference | MySQL | HackerRank](https://www.youtube.com/watch?v=kSQBFhEQF-U)
 - [L06: Aggregate Functions | MySQL DQL | CodeNCode](https://www.youtube.com/watch?v=4_2nfzF7pqw)
 - [L00: Design Patterns Course Overview | Design Patterns](https://www.youtube.com/watch?v=KIfDIr6WLI4)
 - [L007: Monotonic Increasing &amp; Decreasing Stack | Basic Algorithms &amp; Implementations | CodeNCode](https://www.youtube.com/watch?v=ALJJcA1uWmU)
-- [E09: Weather Observation Station 3 | MySQL | HackerRank](https://www.youtube.com/watch?v=EqO-lizCnmA)
-- [L09: Higher than 75 marks | MySQL | HackerRank](https://www.youtube.com/watch?v=B9bPZtVtwyk)
+- [E10: Weather Observation Station 3 | MySQL | HackerRank](https://www.youtube.com/watch?v=EqO-lizCnmA)
 <!-- YOUTUBE:END -->
 
 
