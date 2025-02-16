@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L04 - Factory Method Pattern | Design Patterns](https://www.youtube.com/watch?v=t-WDABdUjy8)
 - [L03 - Prototype Pattern | Design Patterns](https://www.youtube.com/watch?v=8gSYPOlUsh0)
 - [L02 - Builder Pattern | Design Patterns](https://www.youtube.com/watch?v=cwNyRlKA0Ns)
 - [L01: Singleton Pattern | Design Patterns](https://www.youtube.com/watch?v=UKv2eyM_hC4)
 - [E13: Average Population | MySQL | HackerRank](https://www.youtube.com/watch?v=cjsIWOhoNs8)
-- [E12: Weather observation station 4 | MySQL | HackerRank](https://www.youtube.com/watch?v=x0T1meb07ls)
 <!-- YOUTUBE:END -->
 
 
