@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L01: Project, IDE and GitHub setup | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=Lbtj_itEd4w)
 - [L00: Course Overview | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=rEfZ4B_8gQ8)
 - [L05 - Abstract Factory Pattern | Design Patterns](https://www.youtube.com/watch?v=06bF3NRBcg0)
 - [L04 - Factory Method Pattern | Design Patterns](https://www.youtube.com/watch?v=t-WDABdUjy8)
 - [L03 - Prototype Pattern | Design Patterns](https://www.youtube.com/watch?v=8gSYPOlUsh0)
-- [L02 - Builder Pattern | Design Patterns](https://www.youtube.com/watch?v=cwNyRlKA0Ns)
 <!-- YOUTUBE:END -->
 
 
