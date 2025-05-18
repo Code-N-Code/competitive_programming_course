@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L08: Adding Spring Security to project | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=yn5zxRDDtPw)
 - [L07: Adding User endpoints | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=MtV9-n_YUdU)
 - [L06: Api testing using Postman | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=g9jEke8PVb4)
 - [L05: Exception handling in Spring Boot | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=mcvg_heKcso)
 - [L04: Adding food item endpoints | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=TyU1c4ixDwA)
-- [L03.1: MVC Architecture &amp; Springboot support | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=FchrDR57RLo)
 <!-- YOUTUBE:END -->
 
 
