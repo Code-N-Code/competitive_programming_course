@@ -1,7 +1,7 @@
 /*
  * Problem Name : D. Creating a Schedule
  * Problem Link : https://codeforces.com/contest/2111/problem/D
- * Video solution link : 
+ * Video solution link : https://youtu.be/TKrhq5hy6IA
  * Write here if video solution doesn't exist : icodencode@gmail.com
  * Channel name & link : CodeNCode (https://www.youtube.com/@codencode)
  */
