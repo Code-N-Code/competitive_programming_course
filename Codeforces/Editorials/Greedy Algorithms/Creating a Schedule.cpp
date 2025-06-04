@@ -17,6 +17,9 @@ int get_floor(int classroom) {
     return classroom / 100;
 }
 
+bool comp(int a, int b) {
+	return get_floor(a) < get_floor(b);
+}
 int main() {
     int t;
     cin >> t;
@@ -30,9 +33,7 @@ int main() {
         for (int i = 0; i < m; ++i)
             cin >> classrooms[i];
 
-        sort(classrooms.begin(), classrooms.end(), [](int a, int b) {
-            return get_floor(a) < get_floor(b);
-        });
+        sort(classrooms.begin(), classrooms.end(), comp);
 
         vector<vector<int>> schedule(n, vector<int>(6));
         int left = 0, right = m-1;
@@ -69,3 +70,4 @@ int main() {
 
     return 0;
 }
+
