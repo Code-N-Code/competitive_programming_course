@@ -1,7 +1,7 @@
 /*
  * Problem Name : C. Move Brackets
  * Problem Link : https://codeforces.com/problemset/problem/1374/C
- * Video solution link : 
+ * Video solution link : https://youtu.be/g6HhBoXv50I
  * Write here if video solution doesn't exist : icodencode@gmail.com
  * Channel name & link : CodeNCode (https://www.youtube.com/@codencode)
  */
