@@ -28,7 +28,6 @@ int main() {
         int n, m;
         cin >> n >> m;
 
-        int total_needed = n * 6;
         vector<int> classrooms(m);
         for (int i = 0; i < m; ++i)
             cin >> classrooms[i];
