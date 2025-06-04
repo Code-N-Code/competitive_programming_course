@@ -40,24 +40,24 @@ int main() {
 
         for (int i = 1; i < n; i+=2) {
         	schedule[i  ][0] = classrooms[left++];
-            schedule[i-1][0] = classrooms[right--];
+            	schedule[i-1][0] = classrooms[right--];
         }
         
         for(int k=1; k<6; k++) {
         	for(int i=1; i<n; i+=2) {
         		schedule[i  ][k] = schedule[i-1][k-1];
-            	schedule[i-1][k] = schedule[i  ][k-1];
-			}
+            		schedule[i-1][k] = schedule[i  ][k-1];
 		}
+	}
 		
-		if(n & 1) {
-			for(int k=0; k<6; k++) {
-				if(k & 1)
-				schedule[n-1][k] = classrooms[left];
-				else
-				schedule[n-1][k] = classrooms[right];
-			}
+	if(n & 1) {
+		for(int k=0; k<6; k++) {
+			if(k & 1)
+			schedule[n-1][k] = classrooms[left];
+			else
+			schedule[n-1][k] = classrooms[right];
 		}
+	}
 
         for (int i = 0; i < n; ++i) {
         	for (int k = 0; k < 6; ++k) {
