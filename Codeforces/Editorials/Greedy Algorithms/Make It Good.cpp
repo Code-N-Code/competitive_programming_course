@@ -1,3 +1,12 @@
+/*
+ * Problem Name : C. Make It Good
+ * Problem Link : https://codeforces.com/contest/1385/problem/C
+ * Video solution link : https://youtu.be/qmUGfEYLYew
+ * Write here if video solution doesn't exist : icodencode@gmail.com
+ * Channel name & link : CodeNCode (https://www.youtube.com/@codencode)
+ */
+
+
 #include<bits/stdc++.h>
 #define REP(i,n) for (int i = 1; i <= n; i++)
 #define mod 1000000007
