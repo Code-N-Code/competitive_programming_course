@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [L10: Order and Checkout APIs | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=zvIR93UDjX4)
+- [L10 &lpar;part 2&rpar;: Checkout APIs &amp; Transaction | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=tc9NbHedHKA)
+- [L10 &lpar;Part 1&rpar;: Order and Checkout APIs | SpringBoot Restaurant Project](https://www.youtube.com/watch?v=zvIR93UDjX4)
 - [E004: Make it Good | Greedy Algorithms | Codeforces](https://www.youtube.com/watch?v=qmUGfEYLYew)
 - [E0005: Creating a schedule | Greedy Algorithms | Codeforces](https://www.youtube.com/watch?v=TKrhq5hy6IA)
 - [E003: Move Brackets | Greedy Algorithms | Codeforces](https://www.youtube.com/watch?v=g6HhBoXv50I)
-- [E02: Redundant Connection II | DSU | LeetCode](https://www.youtube.com/watch?v=ZqrxL7izv20)
 <!-- YOUTUBE:END -->
 
 
