@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L12: Flyweight Pattern | Design Patterns](https://www.youtube.com/watch?v=x-VGZUwfev0)
 - [Java design pattern course update #coding #programming #java #designpatternsinjava #designpatterns](https://www.youtube.com/shorts/P6HOll3evSM)
 - [L11 : Composite Pattern | Design Patterns](https://www.youtube.com/watch?v=MPePQaMPlBs)
 - [L10 : Bridge Pattern | Design Patterns](https://www.youtube.com/watch?v=BQR-Xcu_wxM)
 - [L09 : Decorator Pattern | Design Patterns](https://www.youtube.com/watch?v=CMMu_D2arHI)
-- [E02: ABCDEF | Binary Search | SPOJ](https://www.youtube.com/watch?v=07rX0DjWSdY)
 <!-- YOUTUBE:END -->
 
 
