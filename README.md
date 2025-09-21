@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L02: DELETE, TRUNCATE AND DROP TABLE | SQL Interview Series](https://www.youtube.com/watch?v=eoWAAg2OuG8)
 - [E006: Two Divisors | Number Theory | Codeforces](https://www.youtube.com/watch?v=aU5x8p-6xwA)
 - [IP01: Windows Function | Database Interview Series](https://www.youtube.com/watch?v=ADhTtI4KPAo)
 - [L13: Observer Pattern | Design Patterns](https://www.youtube.com/watch?v=N7qNtyHTh5c)
 - [5 Most Important Topics you must cover for SDE1 Amazon Interview #programming #coding](https://www.youtube.com/shorts/x6IKa96a09w)
-- [L12: Flyweight Pattern | Design Patterns](https://www.youtube.com/watch?v=x-VGZUwfev0)
 <!-- YOUTUBE:END -->
 
 
