@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L04: Sieve algorithm | NT 2025 Course](https://www.youtube.com/watch?v=ai9qsbGughg)
 - [L03: Number  of divisors from prime factorization | NT 2025 Course](https://www.youtube.com/watch?v=FfNg4NRit7Y)
 - [L02: Prime Factorization O&lpar;SQRT&lpar;N&rpar;&rpar; | NT 2025 Course](https://www.youtube.com/watch?v=93tu3MxBsZg)
 - [L01: Primality Test O&lpar;SQRT&lpar;N&rpar;&rpar; | NT 2025 Course](https://www.youtube.com/watch?v=oLxPBQ7dv_U)
 - [L00: Number Theory Course Overview | NT 2025 Course](https://www.youtube.com/watch?v=lBqej5pDcKQ)
-- [power of 2 in single operation. #coding #algorithm  #programming #designpatterns](https://www.youtube.com/shorts/cVTCnFA1Jiw)
 <!-- YOUTUBE:END -->
 
 
