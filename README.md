@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L15: State Pattern | Design Patterns](https://www.youtube.com/watch?v=p5rpCY6BoYo)
 - [L14: Strategy Pattern | Design Patterns](https://www.youtube.com/watch?v=rxHOL7X_sYk)
 - [lecture update #codencode  #programming #codinf](https://www.youtube.com/shorts/s0lS7yud8Jg)
 - [L04: Parking Lot LLD | Low Level Design](https://www.youtube.com/watch?v=wIo7igW3sW4)
 - [L03: Logging Framework| Low Level Design](https://www.youtube.com/watch?v=_GdGuYpZmEg)
-- [L03: Logger System Update #education #codencode #codeadventure #coding #google #placement #design](https://www.youtube.com/shorts/IBFv55b2YA8)
 <!-- YOUTUBE:END -->
 
 
