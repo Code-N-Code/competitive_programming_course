@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Next LLD Lecture #programming #coding #code #lld](https://www.youtube.com/shorts/K8tHZfRyiI4)
 - [L11: File Management System | Low Level Design](https://www.youtube.com/watch?v=ENDzaxQ1o1A)
 - [L10: LRU Cache | Low Level Design](https://www.youtube.com/watch?v=vV_H_TDeYlU)
 - [L08: Coffee Machine System | Low Level Design](https://www.youtube.com/watch?v=OmcsVDYaiLA)
 - [E011: Tree Queries | Graph &amp; Tree | Codeforces](https://www.youtube.com/watch?v=HL_QoysqzSc)
-- [Competitive programming &amp; LLD update #programming #coding #lld #java](https://www.youtube.com/shorts/MSIy6mbNHcA)
 <!-- YOUTUBE:END -->
 
 
