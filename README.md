@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SQL Quiz #coding #algorithm #sql #db #programming](https://www.youtube.com/shorts/WN6uO_iGtFw)
 - [L14: Splitwise Algorithm | Low Level Design](https://www.youtube.com/watch?v=10XtsW45T-I)
 - [Tree DP Hard Problem #coding #programming #algorithm #code](https://www.youtube.com/shorts/e_iZZEpY-TM)
 - [L13: Elevator System | Low Level Design](https://www.youtube.com/watch?v=-ajr7rBfhgQ)
 - [Transfer data to any device at 80+ MBps #android #app #java #project #coding](https://www.youtube.com/shorts/hZsZiSbvaMA)
-- [L2: Mastering Number Theory Week 1 | Mastering DSA](https://www.youtube.com/watch?v=qG9E_ifVmSM)
 <!-- YOUTUBE:END -->
 
 
