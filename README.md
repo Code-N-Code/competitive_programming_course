@@ -93,5 +93,5 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## Hackerrank
 - [Bit Manipulation](https://www.youtube.com/playlist?list=PL5DyztRVgtRVOMi_HXpUXOje3rPbUdmez)
-- [Number Theory](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7HIi2yVU1eIZN-mNDyBYMv)
+- [MySQL](https://www.youtube.com/playlist?list=PL5DyztRVgtRW2o5PAt0H4va_0ic6lGbTI)
 
