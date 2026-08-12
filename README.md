@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L16: Hotel Management System | Low Level Design](https://www.youtube.com/watch?v=ShXjSiIz3xg)
 - [L01: Factory Method | C++ Design Patterns](https://www.youtube.com/watch?v=vQ5y0RJpsm8)
 - [L0: Course Overview | C++ Design Patterns](https://www.youtube.com/watch?v=XyMbqQAdo5I)
 - [L15: Splitwise LLD | Low Level Design](https://www.youtube.com/watch?v=DtCkzn9JiFY)
 - [one of the most important c++ interview concept #coding #programming #interview #cpp](https://www.youtube.com/shorts/OiU4PTMkiE8)
-- [SQL Quiz #coding #algorithm #sql #db #programming](https://www.youtube.com/shorts/WN6uO_iGtFw)
 <!-- YOUTUBE:END -->
 
 
