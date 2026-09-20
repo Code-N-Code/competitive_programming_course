@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Patients With a Condition | LeetCode | MySQL](https://www.youtube.com/watch?v=4sBgoRFNJ7M)
 - [L07: LIKE and WILD CARD operators | MySQL DQL | CodeNCode](https://www.youtube.com/watch?v=WM8Z5md1aTw)
 - [L17: Movie Booking System | Low Level Design](https://www.youtube.com/watch?v=1nLhwk0rDYo)
 - [L03: Abstract Factory Pattern | C++ Design Patterns](https://www.youtube.com/watch?v=VUhyyUKGtns)
 - [WHERE 1=0 IN SQL  #sql #sqlforbeginners #sqlinterviewquestions #coding](https://www.youtube.com/shorts/xSkMtf0SaGw)
-- [WINDOW function VS GROUP BY   #coding #sql #programming #code #algorithm #interview](https://www.youtube.com/shorts/Otk9rvqkhck)
 <!-- YOUTUBE:END -->
 
 
