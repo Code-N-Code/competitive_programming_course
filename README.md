@@ -13,11 +13,11 @@ I have courses like Number theory and graph theory course which start from basic
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [L04: Capacty Estimations | High Level Design](https://www.youtube.com/watch?v=gL2F-W66OY4)
 - [L03: Requirements &amp; CAP Theorem | High Level Design](https://www.youtube.com/watch?v=nuOGuonU4ok)
 - [L02: What is System Design? | High Level Design](https://www.youtube.com/watch?v=JwzkF3hqZAo)
 - [L01: Beginning Phase 1 | High Level Design](https://www.youtube.com/watch?v=vr_T5Jh3THI)
 - [L00: Course Overview | High Level Design](https://www.youtube.com/watch?v=2kr2ORjx55Q)
-- [Min Stack | LLD | LeetCode](https://www.youtube.com/watch?v=tMHqHbGmAw4)
 <!-- YOUTUBE:END -->
 
 
